@@ -1,8 +1,8 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *Tumblr*
 
 Submitted by: **Taylor Green**
 
-**Tumblr** is an app that ... [TODO] 
+**Tumblr** is a blogging app ... [TODO] 
 
 Time spent: **4** hours spent in total
 
